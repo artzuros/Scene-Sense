@@ -4,7 +4,7 @@ A local, privacy-first visual search engine that lets you upload images, store C
 
 ### Demo Video
 
-https://github.com/suryanshgupta9933/Scene-Sense/assets/Scene-Sense%20POC.mp4
+[https://github.com/suryanshgupta9933/Scene-Sense/assets/Scene-Sense%20POC.mp4](https://github.com/artzuros/Scene-Sense/blob/main/assets/Scene-Sense%20POC.mp4)
 
 ## Features
 
@@ -17,8 +17,8 @@ https://github.com/suryanshgupta9933/Scene-Sense/assets/Scene-Sense%20POC.mp4
 
 ## System Architecture
 
-Scene‑Sense is split into three components:
-
+[https://github.com/artzuros/Scene-Sense/assets/System%20Architecture.png
+](https://github.com/artzuros/Scene-Sense/blob/main/assets/System%20Architecture.png)
 ### 1. **Frontend (React / Vite)**
 
 * Provides UI for uploading images, browsing, and searching
